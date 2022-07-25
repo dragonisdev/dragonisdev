@@ -3,7 +3,8 @@ __________________________________________________________________
 
 My name is DraGonis and I'm a music producer. I'm currently a cyber security student studying in Finland
 
-
+Awesome stuff:
+- https://real-cugan.animesales.xyz/
 
 
 <!--
