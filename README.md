@@ -1,6 +1,8 @@
-### Hi there 👋 I make EDM music and like to cry in front of my screen while coding
+## Hi there 👋 I make EDM music and like to cry in front of my screen while coding
+__________________________________________________________________
+<h3>This is DraGonis, a newbie coder</h3>
 
-[My Soundcloud](https://soundcloud.com/dragonis_music)
+
 
 
 <!--
