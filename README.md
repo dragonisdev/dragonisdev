@@ -1,6 +1,7 @@
-## Hi there 👋 I make EDM music and like to cry in front of my screen while coding
+## Hi there 👋 
 __________________________________________________________________
-<h3>This is DraGonis, a newbie coder</h3>
+
+My name is DraGonis and I'm a music producer. I'm currently a cyber security student studying in Finland
 
 
 
