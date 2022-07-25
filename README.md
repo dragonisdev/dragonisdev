@@ -1,7 +1,10 @@
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=yunweicui&cover_image=true&theme=default&bar_color=9656f5" align = "right" />
+
 ## Hi there 👋 
 __________________________________________________________________
 
 My name is DraGonis and I'm a music producer. I'm currently a cyber security student studying in Finland
+
 
 Listen to my music:
 - https://open.spotify.com/artist/13z6RhXyaasGa9eeWxduuR?si=BWhwAbMpQ6SneYqayUPgvw
@@ -11,7 +14,9 @@ Listen to my music:
 Awesome stuff:
 - https://real-cugan.animesales.xyz/
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yunweicui&cover_image=true&theme=default&bar_color=9656f5)](https://spotify-github-profile.vercel.app/api/view?uid=yunweicui&redirect=true)
+
+
+
 <!--
 **dragonisdev/dragonisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
