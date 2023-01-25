@@ -1,4 +1,4 @@
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=yunweicui&cover_image=true&theme=default&bar_color=9656f5" align = "right" />
+
 
 ## Hi there 👋 
 __________________________________________________________________
