@@ -3,7 +3,7 @@
 ## Hi there 👋 
 __________________________________________________________________
 
-My name is DraGonis and I'm a music producer. I'm currently a cyber security student studying in Finland
+My name is DraGonis and I'm a music producer and I'm currently a cyber security student 
 
 Follow me:
 - https://www.instagram.com/dragonis_dev/
