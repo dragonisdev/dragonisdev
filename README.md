@@ -9,8 +9,7 @@ Follow me: https://www.instagram.com/dragonis_music/
 
 Listen to my music: https://linktr.ee/dragonis
 
-Awesome stuff:
-- https://real-cugan.animesales.xyz/
+Awesome stuff: https://real-cugan.animesales.xyz/
 
 
 
