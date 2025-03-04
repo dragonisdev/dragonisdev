@@ -1,30 +1,32 @@
+# Hi there 👋, I'm DraGonis  
 
+🎵 **Music Producer** | 🛡️ **Cybersecurity Student** | 💻 **Web Developer (MERN Stack, React)**  
 
-## Hi there 👋 
-__________________________________________________________________
+---
 
-My name is DraGonis and I'm a music producer and I'm currently a cyber security student 
+## 🚀 About Me  
+I'm a passionate **music producer** and **web developer** with a strong focus on **React** and the **MERN stack**.  
+Currently, I'm also studying **cybersecurity**, blending creativity with technology to build and protect digital experiences.  
 
-Follow me: https://www.instagram.com/dragonis_music/
+### 🎧 Music & Creativity  
+I produce **EDM anime dubstep**, along with other genres inspired by space, adventure, and deep emotions.  
+Check out my work here:  
+🎶 [Listen to my music](https://linktr.ee/dragonis)  
 
-Listen to my music: https://linktr.ee/dragonis
+### 💻 Web Development  
+I specialize in:  
+- **React & MERN Stack** (MongoDB, Express, React, Node.js)  
+- Building fast, user-friendly, and scalable web applications  
+- Implementing secure coding practices  
 
-Awesome stuff: https://real-cugan.animesales.xyz/
+### 📡 Cybersecurity  
+I'm currently diving deep into **ethical hacking, network security, and secure web development**.  
 
+---
 
+## 🌍 Connect With Me  
+📸 **Instagram:** [@dragonis_music](https://www.instagram.com/dragonis_music/)  
+🎶 **Music:** [Listen here](https://linktr.ee/dragonis)  
+🔗 **Cool Stuff:** [Anime AI Upscaler](https://real-cugan.animesales.xyz/)  
 
-
-<!--
-**dragonisdev/dragonisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's create something awesome! 🚀  
