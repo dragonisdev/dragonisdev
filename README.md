@@ -5,13 +5,9 @@ __________________________________________________________________
 
 My name is DraGonis and I'm a music producer and I'm currently a cyber security student 
 
-Follow me:
-- https://www.instagram.com/dragonis_dev/
+Follow me: https://www.instagram.com/dragonis_music/
 
-Listen to my music:
-- https://open.spotify.com/artist/13z6RhXyaasGa9eeWxduuR?si=BWhwAbMpQ6SneYqayUPgvw
-- https://soundcloud.com/dragonis_music
-- https://www.youtube.com/channel/UCy1jiL3DNV8quI_MsxGh43w
+Listen to my music: https://linktr.ee/dragonis
 
 Awesome stuff:
 - https://real-cugan.animesales.xyz/
