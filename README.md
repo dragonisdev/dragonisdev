@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a passionate **music producer** and **web developer** with a strong focus on **React** and the **MERN stack**.  
+I'm a passionate **music producer** and **web developer** with a strong focus on **Apps** and the **MERN stack**.  
 Currently, I'm also studying **cybersecurity** in Finland.  
 
 ### 🎧 Music & Creativity  
@@ -16,11 +16,11 @@ Check out my work here:
 ### 💻 Web Development  
 I specialize in:  
 - **MERN Stack** (MongoDB, Express, React, Node.js)  
-- Building fast, user-friendly, and scalable web applications  
-- Implementing secure coding practices  
+- Building fast, user-friendly, and scalable applications
+- Implementing secure coding practices (trying to lol)
 
 ### 📡 Cybersecurity  
-I'm currently diving deep into **ethical hacking, network security, and secure web development**.  
+I'm currently diving deep into **ethical hacking, network security, and secure app development**.  
 
 ---
 
