@@ -3,10 +3,9 @@
 🎵 **Music Producer** | 🛡️ **Cybersecurity Student** | 💻 **Web Developer (MERN Stack, React)**  
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonisdev&show_icons=true&theme=ayu_mirage) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonisdev&layout=compact&theme=ayu_mirage) 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dragonisdev&theme=ayu_mirage)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonisdev&layout=compact&bg_color=F4F1E1,9E9D24&title_color=6B8E23&text_color=3E4A1C)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dragonisdev&bg_color=F4F1E1,9E9D24&title_color=6B8E23&text_color=3E4A1C)
 
 ## 🚀 About Me  
 I'm a passionate **music producer** and **web developer** with a strong focus on **Apps** and the **MERN stack**.  
