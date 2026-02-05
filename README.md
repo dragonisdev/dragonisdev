@@ -4,9 +4,7 @@
 
 ---
 
-## 🚀 About Me  
-
-### My portfolio: https://www.yunwei-cui.com
+## 🚀 My portfolio: https://www.yunwei-cui.com
 
 I'm a passionate **music producer** and **web developer** with a strong focus on **Apps** and the **PERN stack**.  
 Currently, I'm also studying **cybersecurity** in Finland.  
