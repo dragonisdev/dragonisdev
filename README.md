@@ -1,6 +1,6 @@
 # Hi there 👋, I'm DraGonis  
 
-🎵 **Music Producer** | 🛡️ **Cybersecurity Student** | 💻 **Web Developer (MERN Stack, React)**  
+🎵 **Music Producer** | 🛡️ **Cybersecurity Student** | 💻 **Web Developer (PERN Stack, React)**  
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonisdev&layout=compact&bg_color=F4F1E1,9E9D24&title_color=6B8E23&text_color=3E4A1C)
@@ -19,7 +19,7 @@ Check out my work here:
 
 ### 💻 Web Development  
 I specialize in:  
-- **MERN Stack** (MongoDB, Express, React, Node.js)  
+- **PERN Stack** (Postgres, Express, React, Node.js)  
 - Building fast, user-friendly, and scalable applications
 - Implementing secure coding practices (trying to lol)
 
