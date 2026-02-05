@@ -3,13 +3,12 @@
 🎵 **Music Producer** | 🛡️ **Cybersecurity Student** | 💻 **Web Developer (PERN Stack, React)**  
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonisdev&layout=compact&bg_color=F4F1E1,9E9D24&title_color=6B8E23&text_color=3E4A1C)
 
 ## 🚀 About Me  
 
-My portfolio: https://www.yunwei-cui.com/
+### My portfolio: https://www.yunwei-cui.com
 
-I'm a passionate **music producer** and **web developer** with a strong focus on **Apps** and the **MERN stack**.  
+I'm a passionate **music producer** and **web developer** with a strong focus on **Apps** and the **PERN stack**.  
 Currently, I'm also studying **cybersecurity** in Finland.  
 
 ### 🎧 Music & Creativity  
