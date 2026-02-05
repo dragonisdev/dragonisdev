@@ -28,6 +28,7 @@ I'm currently diving deep into **ethical hacking, network security, and secure a
 ## 🌍 Connect With Me  
 📸 **Instagram:** [@dragonis_music](https://www.instagram.com/dragonis_music/)  
 🎶 **Music:** [Listen here](https://linktr.ee/dragonis)  
-🔗 **Cool Stuff:** [Anime AI Upscaler](https://real-cugan.animesales.xyz/)  
+🔗 **Cool Stuff:** 
+- [Anime AI Upscaler](https://real-cugan.animesales.xyz/)  
 
 Let's create something awesome! 🚀  
