@@ -17,7 +17,7 @@ Check out my work here:
 ### 💻 Web Development  
 I specialize in:  
 - **AWS**
-- **PERN Stack** (Postgres, Express, React, Node.js)  
+- **Postgres, React, Node.js**  
 
 
 ### 📡 Cybersecurity  
