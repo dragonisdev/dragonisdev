@@ -1,13 +1,12 @@
 # Hi there 👋, I'm DraGonis  
 
-🎵 **Music Producer** | 🛡️ **Cybersecurity Student** | 💻 **Web Developer (PERN Stack, React)**  
+🎵 **Music Producer** | 🛡️ **Cybersecurity Student** | 💻 **Web Developer**  
 
 ---
 
-## 🚀 My portfolio: https://www.yunwei-cui.com
+## 🚀 My portfolio: down atm
 
-I'm a passionate **music producer** and **web developer** with a strong focus on **Apps** and the **PERN stack**.  
-Currently, I'm also studying **cybersecurity** in Finland.  
+I'm a passionate **music producer** and **web developer** studying **cybersecurity** in Finland.  
 
 ### 🎧 Music & Creativity  
 I produce **EDM anime wubs**, along with other genres inspired by space, adventure, and deep emotions.  
@@ -27,7 +26,4 @@ I'm currently diving deep into **ethical hacking, network security, and secure a
 ## 🌍 Connect With Me  
 📸 **Instagram:** [@dragonis_music](https://www.instagram.com/dragonis_music/)  
 🎶 **Music:** [Listen here](https://linktr.ee/dragonis)  
-🔗 **Cool Stuff:** 
-- [Anime AI Upscaler](https://real-cugan.animesales.xyz/)  
-
-Let's create something awesome! 🚀  
+  
