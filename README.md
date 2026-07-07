@@ -16,9 +16,9 @@ Check out my work here:
 
 ### 💻 Web Development  
 I specialize in:  
+- **AWS**
 - **PERN Stack** (Postgres, Express, React, Node.js)  
-- Building fast, user-friendly, and scalable applications
-- Implementing secure coding practices (trying to lol)
+
 
 ### 📡 Cybersecurity  
 I'm currently diving deep into **ethical hacking, network security, and secure app development**.  
