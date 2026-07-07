@@ -15,9 +15,9 @@ Check out my work here:
 🎶 [Listen to my music](https://linktr.ee/dragonis)  
 
 ### 💻 Tech
-Cloud Computing: **AWS**
-Languages: **Python, Typescript, C**
-Databases: **Postgres, MySQL, MongoDB** 
+- Cloud Computing: **AWS**
+- Languages: **Python, Typescript, C**
+- Databases: **Postgres, MySQL, MongoDB** 
 
 ### 📡 Cybersecurity  
 I'm currently diving deep into **ethical hacking, network security, and secure app development** and working as a full stack developer using NextJS for frontend and Node JS for the backend.  
