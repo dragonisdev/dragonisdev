@@ -14,15 +14,13 @@ I produce **EDM anime wubs**, along with other genres inspired by space, adventu
 Check out my work here:  
 🎶 [Listen to my music](https://linktr.ee/dragonis)  
 
-### 💻 Web Development  
-I specialize in:  
-- **AWS**
-- **Python, Typescript, C**
-- **Postgres, React, Node.js**  
-
+### 💻 Tech
+Cloud Computing: **AWS**
+Languages: **Python, Typescript, C**
+DB: **Postgres, MySQL, MongoDB** 
 
 ### 📡 Cybersecurity  
-I'm currently diving deep into **ethical hacking, network security, and secure app development**.  
+I'm currently diving deep into **ethical hacking, network security, and secure app development** and working as a full stack developer using NextJS for frontend and Node JS for the backend.  
 
 ---
 
