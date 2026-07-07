@@ -17,6 +17,7 @@ Check out my work here:
 ### 💻 Web Development  
 I specialize in:  
 - **AWS**
+- **Python, Typescript, C**
 - **Postgres, React, Node.js**  
 
 
